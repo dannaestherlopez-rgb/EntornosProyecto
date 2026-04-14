@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/1.Presentation/">
+    <Project Path="Presentation/Presentation.csproj" Id="3bb13f65-6f08-4a90-852c-d6ecb1efcc37" />
+  </Folder>
+  <Folder Name="/2.Domain/">
+    <Project Path="Domain/Domain.csproj" Id="6fc85ef0-5e57-4b81-92c5-0755df57d75d" />
+  </Folder>
+  <Folder Name="/3.DataAccess/">
+    <Project Path="DataAccess/DataAccess.csproj" Id="22b903de-a319-430e-8708-7ad6708af183" />
+  </Folder>
+  <Folder Name="/4.UnitTests/">
+    <File Path="appsettings.json" />
+    <Project Path="UnitTests/UnitTests.csproj" Id="253c5028-70df-4742-b24b-4c9f15f9eba3" />
+  </Folder>
+</Solution>
